@@ -3,3 +3,4 @@
 # Variable assignment
 
 x = 10
+y = 20
