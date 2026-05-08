@@ -7,3 +7,5 @@ for i in range(5):
 
 count = 0
 while count < 5:
+    print("Count:", count)
+    
