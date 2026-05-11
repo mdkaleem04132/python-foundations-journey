@@ -15,3 +15,7 @@ print("hello world")
 print("welcome to python programming")
 print("loops are essential for repetitive tasks")
 print("for loops are used when the number of iterations is known")
+print()
+
+
+name = input("Enter your name: ")
