@@ -19,4 +19,4 @@ print()
 
 
 name = input("Enter your name: ")
-print(f"Hello, {name}!", "welcome to python")
+print(f"Hello, {name}!", "welcome to python programming")
