@@ -19,4 +19,4 @@ print()
 
 
 name = input("Enter your name: ")
-print(`hello, {}`)
+print(`hello, {name}`)
