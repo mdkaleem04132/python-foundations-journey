@@ -222,3 +222,4 @@ fraction_part = num - int(num)
 # Print results
 print(int_part)
 print("fraction part", fraction_part)
+print()
