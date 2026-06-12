@@ -1,3 +1,3 @@
 # loops 
 print()
-print
+pr
