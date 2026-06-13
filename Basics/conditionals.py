@@ -23,5 +23,4 @@ elif (marks <= 70):
     print("B grade")
 
 if (marks <= 50):
-    print("D grade")
-
+    
