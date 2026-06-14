@@ -9,6 +9,3 @@ z = x + y
 print("The value of z is:", z)
 
 number = int(input("Enter a number: "))
-
-i = 0
-for 
